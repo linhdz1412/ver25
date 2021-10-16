@@ -7,7 +7,7 @@ var listNewPlaylist = [
         image: "./assets/img/tabExplore/newPlaylists/newPlaylist1.jpg"
     },
     {
-        name: "Có Một Tình Yêu Gọi Là Chia Tay",
+        name: "Có Một Tình Yêu Gọi Là Chia",
         singer: ["Tăng Phúc", "Trương Thảo Nhi"],
         order: "2",
         time: "06.10.2021",
