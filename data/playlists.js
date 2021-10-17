@@ -7,6 +7,7 @@ var listPlaylist = [
     {
         name: "Rồi Tới Luôn",
         creator: "Nal",
+        path: "./assets/music/listSong1/song9.mp3",
         image: "./assets/img/playlists/playlist2.jpg"
     },
     {
