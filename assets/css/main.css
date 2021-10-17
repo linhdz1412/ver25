@@ -45,9 +45,12 @@
 }
 
 .sidebar__logo-img {
-    height: 34px;
-    display: block;
-    margin-left: 23px;
+    height: 100px;
+    
+    margin-top: -25px;
+    
+    
+    margin-left: 20px;
     color: var(--text-color);
 }
 
